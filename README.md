@@ -74,3 +74,6 @@ I'm always open to collaborations, discussions, and new opportunities. Reach out
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&exclude_repo=github-readme-stats,BakangMonei.github.io)](https://github.com/BakangMonei/github-readme-stats) -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&layout=donut-vertical)](https://github.com/BakangMonei/github-readme-stats)
