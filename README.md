@@ -66,3 +66,5 @@ I am fluent in three languages (Tswana, English & Kalanga from Botswana) and oth
 ## 🤝 Let's Collaborate!
 
 I'm always open to collaborations, discussions, and new opportunities. Reach out if you'd like to collaborate on a project or simply have a chat about tech!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
