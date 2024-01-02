@@ -67,3 +67,10 @@ I am fluent in three languages (Tswana, English & Kalanga from Botswana) and oth
 
 I'm always open to collaborations, discussions, and new opportunities. Reach out if you'd like to collaborate on a project or simply have a chat about tech!
 
+
+<!-- [![BakangMonei's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakangMonei)](https://github.com/BakangMonei/github-readme-stats) -->
+
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=BakangMonei&show_icons=true&hide=contribs&theme=gotham" alt="BakangMonei" />
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&exclude_repo=github-readme-stats,BakangMonei.github.io)](https://github.com/BakangMonei/github-readme-stats) -->
