@@ -26,12 +26,52 @@ Computing Student | Android Native Developer | AWS Cloud Practitioner | Web Appl
 
 ## 👨‍💻 Tech Stack
 
-- **Languages:** Kotlin, Java, C++, C#, C, Python, JavaScript, Swift, Fortran
-- **Databases:** MySQL, SQLite, Firebase, MongoDB, Room, Turso, PostgreSQL
-- **Frameworks:** JavaFX, Springboot, Bootstrap 5, Laravel, Flutter, Cordova, React Native, React JS, Xamarin, Ionic, Tailwind CSS, Material Themes
-- **Cloud Services:** AWS, Azure, Google Cloud Services, IBM Cloud, Oracle Cloud.
-- **Tools & Technologies:** Git, GitLab, CI/CD tools (Jenkins, Travis CI), Network Administration Tools, Cybersecurity Tools.
-- **Prototyping (UI/UX):** Figma, Adobe XD
+### Languages
+- **Mobile Development:** Kotlin, Java, Swift, JavaScript, Python
+- **Network Security & Cybersecurity:** C, C++, C#, Python
+- **Legacy Systems & Security Analysis:** Fortran
+
+### Databases
+- MySQL, SQLite, Firebase, MongoDB, PostgreSQL
+- Room, Turso (Custom database)
+
+### Frameworks
+- **Mobile Development:** Flutter, React Native, Xamarin, Ionic
+- **Web & Application Security:** JavaFX, Spring Boot, Laravel, Cordova, React JS, Bootstrap 5, Tailwind CSS, Material Themes
+
+### Cloud Services
+- AWS (Amazon Web Services), Azure, Google Cloud Services, IBM Cloud, Oracle Cloud
+
+### Tools & Technologies
+- **Version Control:** Git, GitLab
+- **CI/CD:** Jenkins, Travis CI
+- **Network Administration & Cybersecurity:**
+  - Wireshark
+  - Nmap
+  - Metasploit
+  - Snort
+  - Burp Suite
+  - OpenVAS
+  - OSSEC
+  - Zeek (formerly Bro)
+  - tcpdump
+  - Aircrack-ng
+  - Nessus
+  - Nikto
+  - Hashcat
+  - tcpdump
+  - IDS/IPS Systems (Intrusion Detection/Prevention Systems)
+  - SIEM (Security Information and Event Management)
+  - Penetration Testing Tools (various)
+  - Threat Intelligence Platforms
+
+### Prototyping (UI/UX)
+- Figma, Adobe XD
+
+### Operating Systems
+- Linux (various distributions such as Ubuntu, CentOS, Arch Linux)
+- Kali Linux
+- Windows (for development and testing)
 
 ## 🎯 Other Expertise and Interests:
 - Proficient in Networking fundamentals and administration with CISCO CCNA1-CCNA2 certification.
