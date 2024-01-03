@@ -143,6 +143,10 @@ Continuously exploring the evolving landscape of security practices and networki
 ### Let's Discuss Security and Networking!
 I'm passionate about security and networking and always excited to engage in discussions, share knowledge, or collaborate on projects related to these areas. Feel free to connect for any discussions, collaborations, or inquiries related to security or networking!
 
+## BuyMeACoffee
+https://www.buymeacoffee.com/neizatheedev
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
