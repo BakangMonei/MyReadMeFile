@@ -161,8 +161,11 @@ https://www.buymeacoffee.com/neizatheedev
 
 <!-- [![BakangMonei's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakangMonei)](https://github.com/BakangMonei/github-readme-stats) -->
 
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=BakangMonei&show_icons=true&hide=contribs&theme=gotham" alt="BakangMonei" />
+ ### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&exclude_repo=github-readme-stats,BakangMonei.github.io)](https://github.com/BakangMonei/github-readme-stats) -->
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
