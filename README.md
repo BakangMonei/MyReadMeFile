@@ -14,6 +14,36 @@ Computing Student | Android Native Developer | AWS Cloud Practitioner | Web Appl
 - 🛠️ Exploring techniques to prevent **common security threats** such as data breaches, injection attacks, and unauthorized access.
 - 🌐 Ensuring **secure communication** between the mobile app and servers using industry-standard protocols and encryption methods.
 
+## 🛡️ Security and Networking Expertise
+
+### Security Focus Areas
+- **Network Security**: Proficient in designing and implementing secure network architectures. Capable of configuring and managing firewalls, intrusion detection/prevention systems (IDS/IPS), VPNs, and ensuring network traffic security.
+- **Cybersecurity Practices**: Experienced in employing advanced cybersecurity practices, including threat analysis, risk assessment, incident response, and security auditing to fortify systems against potential threats.
+- **Penetration Testing**: Skilled in conducting penetration testing using a variety of tools and techniques to identify vulnerabilities and enhance the security posture of applications and systems.
+- **Secure Coding**: Adept at implementing secure coding practices and standards to mitigate common vulnerabilities such as injection attacks, cross-site scripting (XSS), and other security loopholes.
+- **Encryption and Authentication**: Proficient in implementing encryption algorithms, secure data storage mechanisms, and robust authentication methods to protect sensitive data and ensure secure communication between systems.
+- **Security Tools and Technologies**: Extensive knowledge and hands-on experience with a wide array of security tools like Wireshark, Nmap, Metasploit, Burp Suite, Nessus, Snort, and various penetration testing tools.
+
+### Networking Skills
+- **Cisco Networking**: Certified in CISCO CCNA1,2 & 3, skilled in configuring and troubleshooting networks, including routers, switches, and other networking devices.
+- **Network Administration**: Proficient in network administration tasks, including configuration, monitoring, and maintenance of network infrastructure to ensure optimal performance and security.
+- **Cloud Networking**: Hands-on experience with cloud networking services like AWS, Azure, Google Cloud, and IBM Cloud, including setting up secure and scalable network architectures in cloud environments.
+- **Protocols and Technologies**: In-depth knowledge of network protocols (TCP/IP, UDP, HTTP/S, SSH) and networking technologies ensuring effective communication and secure data transfer across networks.
+
+- ## 🗃️ Database Expertise
+
+### Database Management Systems
+- **Relational Databases**: Proficient in MySQL, PostgreSQL, SQLite, and Firebase for designing, implementing, and managing relational database systems, ensuring efficient data storage and retrieval.
+- **NoSQL Databases**: Experienced in NoSQL databases like MongoDB, proficient in designing flexible and scalable database structures for diverse data needs.
+
+### Database Administration and Optimization
+- **Database Administration**: Skilled in performing database administration tasks, including schema design, query optimization, performance tuning, backup and recovery, and ensuring data integrity and security.
+- **Data Modeling**: Capable of creating effective data models that cater to specific application requirements and ensure efficient data organization and retrieval.
+
+### Integration with Applications
+- **Seamless Integration**: Expertise in integrating databases seamlessly with mobile and web applications using appropriate ORM (Object-Relational Mapping) techniques and APIs to facilitate efficient data flow and management.
+- **Data Security Measures**: Implementing robust access control, encryption, and other security measures within the database to safeguard sensitive information and comply with data protection regulations.
+
 
 ## 💻 What I'm Working On
 
@@ -106,6 +136,12 @@ I am fluent in three languages (Tswana, English & Kalanga from Botswana) and oth
 ## 🤝 Let's Collaborate!
 
 I'm always open to collaborations, discussions, and new opportunities. Reach out if you'd like to collaborate on a project or simply have a chat about tech!
+
+### Ongoing Learning and Contributions
+Continuously exploring the evolving landscape of security practices and networking technologies, actively engaging in forums, communities, and contributing to open-source projects related to cybersecurity and network administration.
+
+### Let's Discuss Security and Networking!
+I'm passionate about security and networking and always excited to engage in discussions, share knowledge, or collaborate on projects related to these areas. Feel free to connect for any discussions, collaborations, or inquiries related to security or networking!
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
