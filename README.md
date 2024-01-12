@@ -162,7 +162,7 @@ https://www.buymeacoffee.com/neizatheedev
 [![BakangMonei's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakangMonei)](https://github.com/BakangMonei/github-readme-stats)
 
  ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
+[![BakangMonei's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakangMonei)](https://github.com/BakangMonei/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
