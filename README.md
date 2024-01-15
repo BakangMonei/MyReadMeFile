@@ -145,7 +145,7 @@ I'm passionate about security and networking and always excited to engage in dis
 
 ## BuyMeACoffee
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/neizatheedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalphaspZ" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/neizatheedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalphaspZ" /></a></p>
 
 
 
@@ -171,4 +171,7 @@ I'm passionate about security and networking and always excited to engage in dis
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devalphaspace&label=Profile%20views&color=0e75b6&style=flat" alt="devalphaspace" /> </p>
 
