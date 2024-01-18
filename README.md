@@ -66,7 +66,7 @@ Computing Student | Android Native Developer | AWS Cloud Practitioner | Web Appl
 - Room, Turso (Custom database)
 
 ### Frameworks
-- **Mobile Development:** Flutter, React Native, Xamarin, Ionic
+- **Mobile Development:** React Native, Android (Java & Kotlin)
 - **Web & Application Security:** JavaFX, Spring Boot, Laravel, Cordova, React JS, Bootstrap 5, Tailwind CSS, Material Themes
 
 ### Cloud Services
@@ -107,7 +107,6 @@ Computing Student | Android Native Developer | AWS Cloud Practitioner | Web Appl
 - Proficient in Networking fundamentals and administration with CISCO CCNA1-CCNA2 certification.
 - Specialized in Cybersecurity, employing tools and techniques for secure system implementations.
 - Experienced in Data Science methodologies and applications, leveraging data for actionable insights.
-- Well-versed in DevOps practices, including CI/CD tools for efficient software development and deployment.
 - Skilled in server administration, especially with cloud-based solutions like AWS, Azure, Google Cloud, etc.
 - Adept in various programming languages and frameworks for web, mobile, and system development.
 - Strong skills in UI/UX design, providing visually appealing and user-friendly interfaces.
