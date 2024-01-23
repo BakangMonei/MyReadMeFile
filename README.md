@@ -1,4 +1,5 @@
 # Monei Bakang Mothuti [NeizaTheeDev]
+
 <!-- <h1 align="center"> -->
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bakang+Monei!;" /> -->
 <!-- </h1> -->
@@ -27,6 +28,7 @@
 ## 🛡️ Security and Networking Expertise
 
 ### Security Focus Areas
+
 - **Network Security**: Proficient in designing and implementing secure network architectures. Capable of configuring and managing firewalls, intrusion detection/prevention systems (IDS/IPS), VPNs, and ensuring network traffic security.
 - **Cybersecurity Practices**: Experienced in employing advanced cybersecurity practices, including threat analysis, risk assessment, incident response, and security auditing to fortify systems against potential threats.
 - **Penetration Testing**: Skilled in conducting penetration testing using a variety of tools and techniques to identify vulnerabilities and enhance the security posture of applications and systems.
@@ -35,6 +37,7 @@
 - **Security Tools and Technologies**: Extensive knowledge and hands-on experience with a wide array of security tools like Wireshark, Nmap, Metasploit, Burp Suite, Nessus, Snort, and various penetration testing tools.
 
 ### Networking Skills
+
 - **Cisco Networking**: Certified in CCNA 3, skilled in configuring and troubleshooting networks, including routers, switches, and other networking devices.
 - **Network Administration**: Proficient in network administration tasks, including configuration, monitoring, and maintenance of network infrastructure to ensure optimal performance and security.
 - **Cloud Networking**: Hands-on experience with cloud networking services like AWS, Azure, Google Cloud, and IBM Cloud, including setting up secure and scalable network architectures in cloud environments.
@@ -43,60 +46,69 @@
 ## 🗃️ Database Expertise
 
 ### Database Management Systems
+
 - **Relational Databases**: Proficient in MySQL, PostgreSQL, and SQLite for designing, implementing, and managing relational database systems, ensuring efficient data storage and retrieval.
 - **NoSQL Databases**: Experienced in NoSQL databases like MongoDB, and Firebase, proficient in designing flexible and scalable database structures for diverse data needs.
 
 ### Database Administration and Optimization
+
 - **Database Administration**: Skilled in performing database administration tasks, including schema design, query optimization, performance tuning, backup and recovery, and ensuring data integrity and security.
 - **Data Modeling**: Capable of creating effective data models that cater to specific application requirements and ensure efficient data organization and retrieval.
 
 ### Integration with Applications
+
 - **Seamless Integration**: Expertise in integrating databases seamlessly with mobile and web applications using appropriate ORM (Object-Relational Mapping) techniques and APIs to facilitate efficient data flow and management.
 - **Data Security Measures**: Implementing robust access control, encryption, and other security measures within the database to safeguard sensitive information and comply with data protection regulations.
 
-
 ## 💻 What I'm Working On
 
-- 🔭 I am currently immersed in **Education In Technology**, where I am *creating interactive learning for handicapped students using Artificial Intelligence*.
+- 🔭 I am currently immersed in **Education In Technology**, where I am _creating interactive learning for handicapped students using Artificial Intelligence_.
 
 - 🌱 I am currently delving deeper into **Mobile Application Security** by exploring advanced techniques in secure mobile app development, focusing on **encryption algorithms**, **secure data storage**, and **penetration testing** to fortify applications against potential threats.
 
 - 🧠 Additionally, I'm advancing my knowledge in **AI-powered Mobile Solutions**, diving into topics like **Machine Learning models for mobile**, **Natural Language Processing (NLP)**, and **computer vision** to develop intelligent and adaptive mobile applications.
 
-
 ## 👨‍💻 Tech Stack
 
 ### Languages
+
 - **Mobile Development:** Kotlin, Java, Swift, JavaScript, TypeScript
 - **Network Security & Cybersecurity:** C, C++, C#, Python
 - **Legacy Systems & Security Analysis:** Fortran
 
 ### Databases
+
 - MySQL, SQLite, Firebase, MongoDB, PostgreSQL
 - Room, Turso (Custom database)
 
 ### Frameworks
+
 - **Mobile Development:** React Native, Android (Java & Kotlin)
 - **Web & Application Security:** JavaFX, Spring Boot, Laravel, Cordova, React Native, Bootstrap 5, Tailwind CSS, Material Themes
 
 ### Cloud Services
+
 - AWS (Amazon Web Services), Azure, Google Cloud Services, IBM Cloud, Oracle Cloud
 
 ### Tools & Technologies
+
 - **Version Control:** Git, GitLab
 - **CI/CD:** Jenkins, Travis CI
 - **Network Administration & Cybersecurity:**
   - Wireshark, Nmap, Metasploit, Snort, Burp Suite,OpenVAS,OSSEC,Zeek (formerly Bro), tcpdump,Aircrack-ng, Nessus,Nikto, Hashcat,tcpdump, IDS/IPS Systems (Intrusion Detection/Prevention Systems), SIEM (Security Information and Event Management), Penetration Testing Tools (various), Threat Intelligence Platforms
 
 ### Prototyping (UI/UX)
+
 - Figma, Adobe XD
 
 ### Operating Systems
+
 - Linux (various distributions such as Kali, ParrotOS, Ubuntu, CentOS, Arch Linux)
 - Windows (for development and testing)
 - MacOS
 
 ## 🎯 Other Expertise and Interests:
+
 - Proficient in Networking fundamentals and administration with CCNA3 certification.
 - Specialized in Cybersecurity, employing tools and techniques for secure system implementations.
 - Experienced in Data Science methodologies and applications, leveraging data for actionable insights.
@@ -109,8 +121,8 @@
 - Extensive experience in mobile technologies, including Android development (Native).
 - Entrepreneurial mindset with experience in technology-driven entrepreneurship and consulting.
 
-
 ## 📫 Let's Connect!
+
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/">Monei Bakang Mothuti</a></li>
         <li>Twitter: <a href="https://twitter.com/BakangMonei">BakangMonei</a></li>
@@ -133,15 +145,17 @@ Feel free to explore my repositories to discover some interesting projects I've 
 - I'm always open to collaborations, discussions, and new opportunities. Reach out if you'd like to collaborate on a project or simply have a chat about tech!
 
 ### Ongoing Learning and Contributions
+
 - Continuously exploring the evolving landscape of security practices and networking technologies, actively engaging in forums, communities, and contributing to open-source projects related to cybersecurity and network administration.
 
 ### Let's Discuss Security and Networking!
+
 - I'm passionate about security and networking and always excited to engage in discussions, share knowledge, or collaborate on projects related to these areas. Feel free to connect for any discussions, collaborations, or inquiries related to security or networking!
 
 ## BuyMeACoffee
+
 <h3>Support:</h3><br>
 <p><a href="https://www.buymeacoffee.com/neizatheedev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalphaspZ" /></a></p>
-
 
 ### Languages and Tools:
 
@@ -166,16 +180,16 @@ Feel free to explore my repositories to discover some interesting projects I've 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
-
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=BakangMonei&limit=5&theme=dark&combine_all_yearly_contributions=true)
