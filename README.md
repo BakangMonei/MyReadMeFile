@@ -103,7 +103,7 @@
 
 ### Operating Systems
 
-- Linux (various distributions such as Kali, ParrotOS, Ubuntu, CentOS, Arch Linux)
+- Linux (various distributions such as Kali, ParrotOS, Ubuntu)
 - Windows (for development and testing)
 - MacOS
 
