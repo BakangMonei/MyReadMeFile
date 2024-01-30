@@ -138,7 +138,7 @@ Feel free to explore my repositories to discover some interesting projects I've 
 
 ## 🌟 Fun Fact
 
-- I am fluent in three languages (Tswana, English & Kalanga from Botswana) and other 8+ programming languages
+- I write code while listening to Gospel and next to my Holy Bible
 
 ## 🤝 Let's Collaborate!
 
