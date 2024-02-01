@@ -4,6 +4,11 @@
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bakang+Monei!;" /> -->
 <!-- </h1> -->
 
+## 🎓 Education
+
+- Masters Of Sciences in Computer Science (Artificial Intelligence & Machine Learning) Student @UniversityOfBotswana
+- [Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering @Sunderland University
+
 ## 🚀 About Me Bakang Monei [Software Engineer (Solutions Architect & Mobile Developer)]
 
 - Passionate computing geek who loves diving deep into coding(programming) and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
