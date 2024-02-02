@@ -138,7 +138,7 @@ Feel free to explore my repositories to discover some interesting projects I've 
 
 ## 🌟 Fun Fact
 
-- I write code while listening to Gospel and next to my Holy Bible
+- I write code while listening to Gospel and next to my Holy Bible, not forgetting my coffeee...
 
 ## 🤝 Let's Collaborate!
 
