@@ -87,9 +87,9 @@
 - Room, Turso (Custom database)
 
 ### Frameworks
+- Mobile Development: React Native, Android (Java & Kotlin)
+- Web & Application Security: JavaFX, Spring Boot, Laravel, Cordova, React Native, Bootstrap 5, Tailwind CSS, Material Themes
 
-- **Mobile Development:** React Native, Android (Java & Kotlin)
-- **Web & Application Security:** JavaFX, Spring Boot, Laravel, Cordova, React Native, Bootstrap 5, Tailwind CSS, Material Themes
 
 ### Cloud Services
 
