@@ -28,7 +28,8 @@
 - EdTech using (Machine Learning, Artificial Intelligence & Intelligent Systems)
 - FinTech (Machine Learning, Artificial Intelligence & Intelligent Systems)
 - eHealth (Machine Learning, Artificial Intelligence & Intelligent Systems)
-- Identifying and solving problems for the Handicapped (Blind, Deaf and Color Blind) using Machine Learning Algorithms
+- Identifying and solving problems for the Handicapped (Blind, Deaf, and Color Blind) using Machine Learning Algorithms
+
 
 ## 🛡️ Security and Networking Expertise
 
