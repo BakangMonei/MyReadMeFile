@@ -25,10 +25,13 @@
 
 ## 🌟 Interests
 
-- EdTech using (Machine Learning, Artificial Intelligence & Intelligent Systems)
-- FinTech (Machine Learning, Artificial Intelligence & Intelligent Systems)
-- eHealth (Machine Learning, Artificial Intelligence & Intelligent Systems)
-- Identifying and solving problems for the Handicapped (Blind, Deaf, and Color Blind) using Machine Learning Algorithms
+### EdTech (Educational Technology)
+- Utilizing Machine Learning, Artificial Intelligence, and Intelligent Systems to revolutionize education.
+- Developing adaptive learning systems that personalize educational content to suit individual learning paces and styles.
+- Creating intelligent tutoring systems that provide real-time feedback and support to students.
+- Implementing AI-driven analytics to monitor and improve student engagement and performance.
+- Designing interactive learning tools and platforms that enhance the educational experience for both teachers and students.
+
 
 
 ## 🛡️ Security and Networking Expertise
