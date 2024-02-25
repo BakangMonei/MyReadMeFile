@@ -122,7 +122,7 @@ Computing Student | Android Native Developer | AWS Cloud Practitioner | Web Appl
 - LinkedIn: Monei Bakang Mothuti (www.linkedin.com/in/monei-bakang-mothuti-m-s-c-s-®-b715361b5)
 - Twitter: @BakangMonei
 - Instagram: @neizatheedev
-- Email: bakangmonei2@gmail.com
+- Email: bakangmonei@swiftiq.co.bw
 
 ## 🚀 Check Out My Repositories!
 
