@@ -39,6 +39,13 @@
 - Building AI-driven trading algorithms and investment platforms that optimize returns and minimize risks.
 - Implementing blockchain and cryptocurrency technologies to enhance security and transparency in financial transactions.
 
+### eHealth (Electronic Health)
+- Leveraging Machine Learning and AI to improve healthcare delivery and outcomes.
+- Developing intelligent diagnostic systems that assist medical professionals in early detection and treatment of diseases.
+- Creating personalized healthcare solutions that tailor treatments and wellness plans to individual needs.
+- Implementing AI-driven analytics to monitor patient health and predict potential health issues.
+- Designing telemedicine platforms that provide remote healthcare services and support.
+
 
 ## 🛡️ Security and Networking Expertise
 
