@@ -64,7 +64,7 @@ Computing Student | Android Native Developer | Machine Learning | Artificial Int
 ## 👨‍💻 Tech Stack
 
 ### Languages
-- **Mobile Development:** Kotlin, Java, Swift, JavaScript, Python
+- **Mobile Development:** Kotlin, Java, Swift, JavaScript
 - **Network Security & Cybersecurity:** C, C++, C#, Python
 - **Legacy Systems & Security Analysis:** Fortran
 
@@ -74,7 +74,7 @@ Computing Student | Android Native Developer | Machine Learning | Artificial Int
 
 ### Frameworks
 - **Mobile Development:** React Native, Android (Java & Kotlin)
-- **Web & Application Security:** JavaFX, Spring Boot, Laravel, Cordova, React JS, Bootstrap 5, Tailwind CSS, Material Themes
+- **Web & Application Security:** JavaFX, Spring Boot, Laravel, Cordova, React Native, Bootstrap 5, Tailwind CSS, Material Themes
 
 ### Cloud Services
 - AWS (Amazon Web Services), Azure, Google Cloud Services, IBM Cloud, Oracle Cloud
