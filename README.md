@@ -1,6 +1,6 @@
 # Hi there, I'm Monei Bakang [NeizaTheeDev]! 👋
 
-## 🚀 About Me As A Software Engineer
+## 🚀 About Me 
 
 I'm a passionate computing ugeek who loves diving deep into coding and creating impactful solutions.... My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
