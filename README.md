@@ -37,7 +37,7 @@ Computing Student | Android Native Developer | Machine Learning | Artificial Int
 - **Cloud Networking**: Hands-on experience with cloud networking services like AWS, Azure, Google Cloud, and IBM Cloud, including setting up secure and scalable network architectures in cloud environments.
 - **Protocols and Technologies**: In-depth knowledge of network protocols (TCP/IP, UDP, HTTP/S, SSH) and networking technologies ensuring effective communication and secure data transfer across networks.
 
-- ## 🗃️ Database Expertise
+## 🗃️ Database Expertise
 
 ### Database Management Systems
 - **Relational Databases**: Proficient in MySQL, PostgreSQL, SQLite, and Firebase for designing, implementing, and managing relational database systems, ensuring efficient data storage and retrieval.
