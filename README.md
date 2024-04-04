@@ -126,7 +126,7 @@ Computing Student | Android Native Developer | Machine Learning | Artificial Int
 
 ## 📫 Let's Connect!
 
-- LinkedIn: Monei Bakang Mothuti (www.linkedin.com/in/monei-bakang-mothuti-m-s-c-s-®-b715361b5)
+- LinkedIn: Monei Bakang Mothuti (https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/)
 - Twitter: @BakangMonei
 - Instagram: @neizatheedev
 - Email: bakangmonei@swiftiq.co.bw
