@@ -4,7 +4,7 @@
 
 I'm a passionate computing ugeek who loves diving deep into coding and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
-Computing Student | Android Native Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3| Cisco Certified in Software & Hardware Components | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux Kali User | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Tutor in Java, Python & C++ | Knowledgeable in Foreign Exchange | Proficient in MySQL | UI/UX Designer | Experienced in Spring Boot, JavaFX, React Native | Software Consultant
+Computing Student | Android Native Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3| Cisco Certified in Software & Hardware Components | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux Kali User | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Tutor in Java, Python & C++ | Knowledgeable in Foreign Exchange | Proficient in MySQL | UI/UX Designer | Experienced in Spring Boot (ThymeLeave), JavaFX, React Native | Software Consultant
 
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
@@ -152,9 +152,6 @@ I'm passionate about security and networking and always excited to engage in dis
 ## BuyMeACoffee
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/neizatheedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalphaspZ" /></a></p>
-
-
-
 
 
 
