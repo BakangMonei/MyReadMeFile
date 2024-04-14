@@ -150,7 +150,7 @@ Continuously exploring the evolving landscape of security practices and networki
 I'm passionate about security and networking and always excited to engage in discussions, share knowledge, or collaborate on projects related to these areas. Feel free to connect for any discussions, collaborations, or inquiries related to security or networking!
 
 ## BuyMeACoffee
-<h3 align="left">Support:</h3>
+<h3>Support:</h3>
 <p><a href="https://www.buymeacoffee.com/neizatheedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalphaspZ" /></a></p>
 
 
