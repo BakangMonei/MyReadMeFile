@@ -176,9 +176,22 @@ I'm passionate about security and networking and always excited to engage in dis
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
  ### 📊 GitHub Stats:
-[![BakangMonei's GitHub stats](https://github-readme-stats.vercel.app/api?username=BakangMonei)](https://github.com/BakangMonei/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BakangMonei&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&hide_border=true" />
+</details>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=true&no-bg=false&margin-w=4)
