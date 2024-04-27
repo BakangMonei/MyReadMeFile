@@ -1,4 +1,4 @@
-# Hi there, I'm Monei Bakang [NeizaTheeDev]! 👋
+# Hi there, I'm Monei Bakang 👋
 
 ## 🚀 About Me 
 
