@@ -2,7 +2,7 @@
 
 ## 🚀 About Me 
 
-I'm a passionate computing ugeek who loves diving deep into coding and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
+I'm a passionate computing geek who loves diving deep into coding and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
 Computing Student | Android Native Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3| Cisco Certified in Software & Hardware Components | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux Kali User | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Tutor in Java, Python & C++ | Knowledgeable in Foreign Exchange | Proficient in MySQL | UI/UX Designer | Experienced in Spring Boot (ThymeLeave), JavaFX, React Native | Software Consultant | Open-Source Intelligence (OSInt)
 
@@ -32,7 +32,7 @@ Computing Student | Android Native Developer | Machine Learning | Artificial Int
 - **Security Tools and Technologies**: Extensive knowledge and hands-on experience with a wide array of security tools like Wireshark, Nmap, Metasploit, Burp Suite, Nessus, Snort, and various penetration testing tools.
 
 ### Networking Skills
-- **Cisco Networking**: Certified in CISCO CCNA1,2 & 3, skilled in configuring and troubleshooting networks, including routers, switches, and other networking devices.
+- **Cisco Networking**: Certified in CCNA 3, skilled in configuring and troubleshooting networks, including routers, switches, and other networking devices.
 - **Network Administration**: Proficient in network administration tasks, including configuration, monitoring, and maintenance of network infrastructure to ensure optimal performance and security.
 - **Cloud Networking**: Hands-on experience with cloud networking services like AWS, Azure, Google Cloud, and IBM Cloud, including setting up secure and scalable network architectures in cloud environments.
 - **Protocols and Technologies**: In-depth knowledge of network protocols (TCP/IP, UDP, HTTP/S, SSH) and networking technologies ensuring effective communication and secure data transfer across networks.
