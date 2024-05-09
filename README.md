@@ -4,7 +4,7 @@
 
 I am a passionate computing geek who loves diving deep into coding and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
-Computing Student **[Summa Cum Laude]** | Android Native Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3 | Cisco Certified in Software & Hardware Components | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Tutor in Java, Python & C++ | Knowledgeable in Foreign Exchange | Proficient in MySQL | UI/UX Designer | Experienced in Spring Boot (ThymeLeave), JavaFX, React Native | Software Consultant | Open-Source Intelligence (OSInt)
+Computing Student **[Summa Cum Laude]** | Android Native Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3 | Cisco Certified in Software & Hardware Components | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Tutor in Java, Python & C++ | Knowledgeable in Foreign Exchange | Proficient in MySQL | UI/UX Designer | Experienced in Spring Boot (ThymeLeave), JavaFX, React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security
 
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
