@@ -129,8 +129,11 @@ Computing Student **[Summa Cum Laude]** | Android Native Developer | Machine Lea
 <ul>
         <li><a href="https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/">LinkedIn: Monei Bakang Mothuti</a></li>
         <li><a href="https://twitter.com/BakangMonei">Twitter: @BakangMonei</a></li>
-        <li><a href="https://www.instagram.com/neizatheedev/">Instagram: @neizatheedev</a></li>
+        <li><a href="https://www.instagram.com/moneibakangmothuti/">Instagram: @BakangMoneiMothuti</a></li>
+        <li><a href="https://www.facebook.com/bakangmonei.mothuti/">Facebook: @neizatheedev</a></li>
         <li>Email: <a href="mailto:bakangmonei@swiftiq.co.bw">bakangmonei@swiftiq.co.bw</a></li>
+        <li><a href="https://www.tiktok.com/@moneibakangmothuti">TikTok: @moneibakangmothuti</a></li>
+  
     </ul>
 
 ## 🚀 Check Out My Repositories!
@@ -152,7 +155,7 @@ Continuously exploring the evolving landscape of security practices and networki
 I'm passionate about security and networking and always excited to engage in discussions, share knowledge, or collaborate on projects related to these areas. Feel free to connect for any discussions, collaborations, or inquiries related to security or networking!
 
 ## BuyMeACoffee
-<h3>Support:</h3>
+<h3>Support:</h3><br>
 <p><a href="https://www.buymeacoffee.com/neizatheedev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalphaspZ" /></a></p>
 
 
