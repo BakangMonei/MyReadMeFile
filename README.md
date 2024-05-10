@@ -125,14 +125,14 @@ Computing Student **[Summa Cum Laude]** | Android Native Developer | Machine Lea
 
 
 ## 📫 Let's Connect!
-
-        <li><a href="https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/">LinkedIn: Monei Bakang Mothuti</a></li>
+<ul>
+  <li><a href="https://www.linkedin.com/in/monei-bakang-mothuti-b715361b5/">LinkedIn: Monei Bakang Mothuti</a></li>
         <li><a href="https://twitter.com/BakangMonei">Twitter: @BakangMonei</a></li>
         <li><a href="https://www.instagram.com/moneibakangmothuti/">Instagram: @BakangMoneiMothuti</a></li>
         <li><a href="https://www.facebook.com/bakangmonei.mothuti/">Facebook: @neizatheedev</a></li>
         <li>Email: <a href="mailto:bakangmonei@swiftiq.co.bw">bakangmonei@swiftiq.co.bw</a></li>
         <li><a href="https://www.tiktok.com/@moneibakangmothuti">TikTok: @moneibakangmothuti</a></li>
-  
+</ul>
 
 ## 🚀 Check Out My Repositories!
 
