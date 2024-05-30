@@ -1,4 +1,4 @@
-# Hi there, I'm Monei Bakang 👋
+# Hello Hiiiiii, I'm Monei Bakang 👋
 
 ## 🚀 About Me [Software Engineer (Solution Architect)]
 
