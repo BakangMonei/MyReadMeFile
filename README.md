@@ -163,27 +163,3 @@ Feel free to explore my repositories to discover some interesting projects I've 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
- ### 📊 GitHub Stats:
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BakangMonei&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&hide_border=true" />
-</details>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BakangMonei&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devalphaspace&label=Profile%20views&color=0e75b6&style=flat" alt="devalphaspace" /> </p>
-
