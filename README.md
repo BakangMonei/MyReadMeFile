@@ -1,10 +1,10 @@
-# Yooh Guys, I am Monei Bakang 👋
+# Yooh!!! I am Monei Bakang 👋
 
 ## 🚀 About Me [Software Engineer (Solution Architect)]
 
 I am a passionate computing geek who loves diving deep into coding and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
-Computer Science Student **[Summa Cum Laude]** | Android Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3 | Cisco Certified in Software & Hardware Components | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Tutor in Java, Python & C++ | Knowledgeable in Foreign Exchange (FOREX) | Proficient in MySQL | UI/UX Designer | Experienced in Spring Boot (ThymeLeave), JavaFX | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security
+Computer Science Student **[Summa Cum Laude]** | Android Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3 | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Knowledgeable in Foreign Exchange (FOREX) | Database Administration | UI/UX Designer | Experienced in Spring Boot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security
 
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
@@ -40,8 +40,8 @@ Computer Science Student **[Summa Cum Laude]** | Android Developer | Machine Lea
 ## 🗃️ Database Expertise
 
 ### Database Management Systems
-- **Relational Databases**: Proficient in MySQL, PostgreSQL, SQLite, and Firebase for designing, implementing, and managing relational database systems, ensuring efficient data storage and retrieval.
-- **NoSQL Databases**: Experienced in NoSQL databases like MongoDB, proficient in designing flexible and scalable database structures for diverse data needs.
+- **Relational Databases**: Proficient in MySQL, PostgreSQL, and SQLite for designing, implementing, and managing relational database systems, ensuring efficient data storage and retrieval.
+- **NoSQL Databases**: Experienced in NoSQL databases like MongoDB, and Firebase, proficient in designing flexible and scalable database structures for diverse data needs.
 
 ### Database Administration and Optimization
 - **Database Administration**: Skilled in performing database administration tasks, including schema design, query optimization, performance tuning, backup and recovery, and ensuring data integrity and security.
@@ -83,32 +83,15 @@ Computer Science Student **[Summa Cum Laude]** | Android Developer | Machine Lea
 - **Version Control:** Git, GitLab
 - **CI/CD:** Jenkins, Travis CI
 - **Network Administration & Cybersecurity:**
-  - Wireshark
-  - Nmap
-  - Metasploit
-  - Snort
-  - Burp Suite
-  - OpenVAS
-  - OSSEC
-  - Zeek (formerly Bro)
-  - tcpdump
-  - Aircrack-ng
-  - Nessus
-  - Nikto
-  - Hashcat
-  - tcpdump
-  - IDS/IPS Systems (Intrusion Detection/Prevention Systems)
-  - SIEM (Security Information and Event Management)
-  - Penetration Testing Tools (various)
-  - Threat Intelligence Platforms
+  - Wireshark, Nmap, Metasploit, Snort, Burp Suite,OpenVAS,OSSEC,Zeek (formerly Bro), tcpdump,Aircrack-ng, Nessus,Nikto, Hashcat,tcpdump, IDS/IPS Systems (Intrusion Detection/Prevention Systems), SIEM (Security Information and Event Management), Penetration Testing Tools (various), Threat Intelligence Platforms
 
 ### Prototyping (UI/UX)
 - Figma, Adobe XD
 
 ### Operating Systems
-- Linux (various distributions such as Ubuntu, CentOS, Arch Linux)
-- Kali Linux
+- Linux (various distributions such as Kali, ParrotOS, Ubuntu, CentOS, Arch Linux)
 - Windows (for development and testing)
+- MacOS
 
 ## 🎯 Other Expertise and Interests:
 - Proficient in Networking fundamentals and administration with CCNA3 certification.
@@ -140,7 +123,7 @@ Feel free to explore my repositories to discover some interesting projects I've 
 
 ## 🌟 Fun Fact
 
-I am fluent in three languages (Tswana, English & Kalanga from Botswana) and other 8+ programming languages
+- I am fluent in three languages (Tswana, English & Kalanga from Botswana) and other 8+ programming languages
 
 ## 🤝 Let's Collaborate!
 
