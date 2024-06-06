@@ -2,9 +2,9 @@
 
 ## 🚀 About Me [Software Engineer (Solution Architect)]
 
-I am a passionate computing geek who loves diving deep into coding and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
+- I am a passionate computing geek who loves diving deep into coding and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
-Computer Science Student **[Summa Cum Laude]** | Android Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3 | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Knowledgeable in Foreign Exchange (FOREX) | Database Administration | UI/UX Designer | Experienced in Spring Boot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security
+- Computer Science Student **[Summa Cum Laude]** | Android Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA 3 | Firebase | Google Developer | Proficient in Server Administration | Passionate about Data Science | Cloud Computing Enthusiast | Linux | Mobile Technology Enthusiast | Tech Entrepreneur | Skilled System Analyst | Cybersecurity Specialist | Knowledgeable in Foreign Exchange (FOREX) | Database Administration | UI/UX Designer | Experienced in Spring Boot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security
 
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
@@ -127,13 +127,13 @@ Feel free to explore my repositories to discover some interesting projects I've 
 
 ## 🤝 Let's Collaborate!
 
-I'm always open to collaborations, discussions, and new opportunities. Reach out if you'd like to collaborate on a project or simply have a chat about tech!
+- I'm always open to collaborations, discussions, and new opportunities. Reach out if you'd like to collaborate on a project or simply have a chat about tech!
 
 ### Ongoing Learning and Contributions
-Continuously exploring the evolving landscape of security practices and networking technologies, actively engaging in forums, communities, and contributing to open-source projects related to cybersecurity and network administration.
+- Continuously exploring the evolving landscape of security practices and networking technologies, actively engaging in forums, communities, and contributing to open-source projects related to cybersecurity and network administration.
 
 ### Let's Discuss Security and Networking!
-I'm passionate about security and networking and always excited to engage in discussions, share knowledge, or collaborate on projects related to these areas. Feel free to connect for any discussions, collaborations, or inquiries related to security or networking!
+- I'm passionate about security and networking and always excited to engage in discussions, share knowledge, or collaborate on projects related to these areas. Feel free to connect for any discussions, collaborations, or inquiries related to security or networking!
 
 ## BuyMeACoffee
 <h3>Support:</h3><br>
