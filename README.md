@@ -1,4 +1,4 @@
-# Yooh!!! I am Monei Bakang (neizatheedev) 👋
+# Yooh!!! I am Monei Bakang (NeizaTheeDev) 👋
 
 ## 🚀 About Me [Software Engineer (Solutions Architect)]
 
