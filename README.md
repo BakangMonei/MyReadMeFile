@@ -163,3 +163,9 @@ Feel free to explore my repositories to discover some interesting projects I've 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BakangMonei&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
