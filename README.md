@@ -1,6 +1,6 @@
 # Yooh!!! I am Monei Bakang (NeizaTheeDev) 👋
 
-## 🚀 About Me [Software Engineer (Solutions Architect & Mobile Developer)]
+## 🚀 About Me [Software Engineer (Solutions Architect & Android Mobile Developer)]
 
 - I am a passionate computing geek who loves diving deep into coding and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
