@@ -4,7 +4,7 @@
 
 ## 🚀 About Me [Software Engineer (Solutions Architect & Mobile Developer)]
 
-- I am a passionate computing geek who loves diving deep into coding(programming) and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
+- Passionate computing geek who loves diving deep into coding(programming) and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
 - Masters Of Sciences in Computer Science (Artficial Intelligence & Machine Learning) Student | **[Cum Laude]** Bachelor of Sciences (Hons) Computer Systems Engineering | Android Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA & CCNP | Firebase | Google Developer | Server Administrator | Data Science | Cloud Computing Enthusiast | Linux (Kali & Parrot OS) | Mobile Technology | Tech-Entrepreneur | System Analyst | Cybersecurity Specialist | Database Administrator | UI/UX Designer | Experienced in Spring Boot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security | Project Management (PRINCE 2)
 
