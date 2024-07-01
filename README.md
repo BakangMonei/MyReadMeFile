@@ -60,7 +60,7 @@
 
 - 🌱 I’m currently delving deeper into **Mobile Application Security** by exploring advanced techniques in secure mobile app development, focusing on **encryption algorithms**, **secure data storage**, and **penetration testing** to fortify applications against potential threats.
 
-- 🧠 Additionally, I'm advancing my knowledge in **AI-powered Mobile Solutions**, diving into topics like **machine learning models for mobile**, **natural language processing (NLP)**, and **computer vision** to develop intelligent and adaptive mobile applications.
+- 🧠 Additionally, I'm advancing my knowledge in **AI-powered Mobile Solutions**, diving into topics like **Machine Learning models for mobile**, **Natural Language Processing (NLP)**, and **computer vision** to develop intelligent and adaptive mobile applications.
 
 
 ## 👨‍💻 Tech Stack
