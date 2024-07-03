@@ -57,9 +57,9 @@
 
 ## 💻 What I'm Working On
 
-- 🔭 I’m currently immersed in **Education In Technology**, where I'm *creating interactive learning for handicapped students using Artificial Intelligence*.
+- 🔭 I am currently immersed in **Education In Technology**, where I am *creating interactive learning for handicapped students using Artificial Intelligence*.
 
-- 🌱 I’m currently delving deeper into **Mobile Application Security** by exploring advanced techniques in secure mobile app development, focusing on **encryption algorithms**, **secure data storage**, and **penetration testing** to fortify applications against potential threats.
+- 🌱 I am currently delving deeper into **Mobile Application Security** by exploring advanced techniques in secure mobile app development, focusing on **encryption algorithms**, **secure data storage**, and **penetration testing** to fortify applications against potential threats.
 
 - 🧠 Additionally, I'm advancing my knowledge in **AI-powered Mobile Solutions**, diving into topics like **Machine Learning models for mobile**, **Natural Language Processing (NLP)**, and **computer vision** to develop intelligent and adaptive mobile applications.
 
@@ -67,7 +67,7 @@
 ## 👨‍💻 Tech Stack
 
 ### Languages
-- **Mobile Development:** Kotlin, Java, Swift, JavaScript
+- **Mobile Development:** Kotlin, Java, Swift, JavaScript, TypeScript
 - **Network Security & Cybersecurity:** C, C++, C#, Python
 - **Legacy Systems & Security Analysis:** Fortran
 
