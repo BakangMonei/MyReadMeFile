@@ -26,6 +26,7 @@
 ## 🌟 Interests
 
 ### EdTech (Educational Technology)
+
 - Utilizing Machine Learning, Artificial Intelligence, and Intelligent Systems to revolutionize education.
 - Developing adaptive learning systems that personalize educational content to suit individual learning paces and styles.
 - Creating intelligent tutoring systems that provide real-time feedback and support to students.
@@ -33,6 +34,7 @@
 - Designing interactive learning tools and platforms that enhance the educational experience for both teachers and students.
 
 ### FinTech (Financial Technology)
+
 - Applying Machine Learning and AI to create innovative financial solutions.
 - Developing predictive models for risk assessment, fraud detection, and financial forecasting.
 - Creating intelligent personal finance management systems that help users make informed financial decisions.
@@ -40,6 +42,7 @@
 - Implementing blockchain and cryptocurrency technologies to enhance security and transparency in financial transactions.
 
 ### eHealth (Electronic Health)
+
 - Leveraging Machine Learning and AI to improve healthcare delivery and outcomes.
 - Developing intelligent diagnostic systems that assist medical professionals in early detection and treatment of diseases.
 - Creating personalized healthcare solutions that tailor treatments and wellness plans to individual needs.
@@ -47,12 +50,12 @@
 - Designing telemedicine platforms that provide remote healthcare services and support.
 
 ### Accessibility Solutions for the Handicapped
+
 - Using Machine Learning Algorithms to develop solutions that improve the quality of life for the handicapped.
 - Creating intelligent systems that assist the blind in navigating and interacting with their environment.
 - Developing speech recognition and synthesis systems to aid communication for the deaf.
 - Designing color-blind friendly interfaces and tools that enhance visual accessibility.
 - Implementing AI-driven technologies that provide real-time assistance and support for individuals with disabilities.
-
 
 ## 🛡️ Security and Networking Expertise
 
