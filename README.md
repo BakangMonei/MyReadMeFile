@@ -15,6 +15,14 @@
 
 - Masters Of Sciences in Computer Science (Artficial Intelligence & Machine Learning) Student | **[Cum Laude]** Bachelor of Sciences (Hons) Computer Systems Engineering | DevOps & CyberOps | Android Developer | Machine Learning | Artificial Intelligence | Intelligent Systems | AWS Cloud Practitioner | Web Application Developer | CCNA & CCNP | Firebase | Google Developer | Server Administrator | Data Science | Cloud Computing Enthusiast | Linux (Kali & Parrot OS) | Mobile Technology | Tech-Entrepreneur | System Analyst | Cybersecurity Specialist | Database Administrator | UI/UX Designer | Experienced in Spring Boot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security | Project Management (PRINCE 2) | Agile & Scrum Master
 
+## 📝 Published Researches
+
+### 1. Improving Brain Tumor Detection Using Convolutional Neural Networks
+- **Objective**: Enhance the accuracy and efficiency of brain tumor detection using advanced convolutional neural networks (CNNs).
+- **Approach**: Developed a CNN-based model to analyze medical imaging data, specifically MRI scans, to identify and classify brain tumors.
+- **Results**: Achieved higher accuracy rates in detecting and categorizing various types of brain tumors, outperforming traditional detection methods.
+- **Impact**: This research contributes to the field of medical diagnostics by providing a reliable and automated tool for early detection of brain tumors, potentially improving patient outcomes through timely intervention.
+
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
 - 🛡️ As a mobile developer, I prioritize **security** in every stage of app development.
