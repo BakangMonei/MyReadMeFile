@@ -23,6 +23,12 @@
 - **Results**: Achieved higher accuracy rates in detecting and categorizing various types of brain tumors, outperforming traditional detection methods.
 - **Impact**: This research contributes to the field of medical diagnostics by providing a reliable and automated tool for early detection of brain tumors, potentially improving patient outcomes through timely intervention.
 
+### 2. Android Mobile Development
+- **Objective**: Explore the latest trends, tools, and techniques in Android mobile development.
+- **Approach**: Conducted an in-depth analysis of Android development frameworks, libraries, and best practices to create robust and user-friendly mobile applications.
+- **Results**: Published guidelines and case studies on effective Android development strategies, covering areas such as UI/UX design, performance optimization, and security practices.
+- **Impact**: This research aids developers in building high-quality Android applications, enhancing user experiences, and ensuring application security and performance.
+
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
 - 🛡️ As a mobile developer, I prioritize **security** in every stage of app development.
