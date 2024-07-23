@@ -29,6 +29,12 @@
 - **Results**: Published guidelines and case studies on effective Android development strategies, covering areas such as UI/UX design, performance optimization, and security practices.
 - **Impact**: This research aids developers in building high-quality Android applications, enhancing user experiences, and ensuring application security and performance.
 
+### 3. Improving Cyber Security Posture for University Communities by Establishment of Cyber Clinic
+- **Objective**: Strengthen cybersecurity within university communities by establishing dedicated cyber clinics.
+- **Approach**: Designed a comprehensive cybersecurity program that includes regular security assessments, incident response training, and awareness campaigns for students and staff.
+- **Results**: Implemented cyber clinics that provided hands-on support, resources, and training to university members, significantly reducing security incidents and enhancing overall cybersecurity awareness.
+- **Impact**: This initiative improves the cybersecurity posture of universities by fostering a culture of security awareness and proactive risk management, protecting sensitive academic and personal data.
+
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
 - 🛡️ As a mobile developer, I prioritize **security** in every stage of app development.
