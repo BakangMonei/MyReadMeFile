@@ -41,6 +41,12 @@
 - **Results**: Published a comprehensive guide that includes personal cybersecurity tips, organizational security policies, and incident response plans.
 - **Impact**: This research empowers individuals and organizations to enhance their cybersecurity defenses, mitigate risks, and respond effectively to cyber threats.
 
+### 5. Critical Evaluation of Sentiment-Driven Risk Assessment Models in Security Architecture: Leveraging Sentiment Analysis Algorithms for Enhanced Cybersecurity
+- **Objective**: Evaluate the effectiveness of sentiment-driven risk assessment models in enhancing cybersecurity.
+- **Approach**: Developed and tested sentiment analysis algorithms to assess risks based on sentiment data from various sources, including social media and threat reports.
+- **Results**: Demonstrated that sentiment-driven models can provide valuable insights into potential security threats, complementing traditional risk assessment methods.
+- **Impact**: This research introduces an innovative approach to risk assessment, leveraging sentiment analysis to predict and mitigate cybersecurity threats more effectively.
+
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
 - 🛡️ As a mobile developer, I prioritize **security** in every stage of app development.
