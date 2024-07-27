@@ -47,6 +47,12 @@
 - **Results**: Demonstrated that sentiment-driven models can provide valuable insights into potential security threats, complementing traditional risk assessment methods.
 - **Impact**: This research introduces an innovative approach to risk assessment, leveraging sentiment analysis to predict and mitigate cybersecurity threats more effectively.
 
+### 6. Improving the Efficacy of Biometric Authentication in Detecting Account Takeover Fraud in Mobile Banking
+- **Objective**: Enhance the reliability of biometric authentication methods in preventing account takeover fraud in mobile banking.
+- **Approach**: Investigated the limitations of existing biometric systems and proposed improvements using advanced algorithms and multi-factor authentication techniques.
+- **Results**: Developed a more secure and efficient biometric authentication framework that significantly reduces the likelihood of account takeover fraud.
+- **Impact**: This research contributes to the field of mobile banking security by providing more robust authentication methods, protecting users' financial information from fraudulent activities.
+
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
 - 🛡️ As a mobile developer, I prioritize **security** in every stage of app development.
