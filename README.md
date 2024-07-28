@@ -53,6 +53,12 @@
 - **Results**: Developed a more secure and efficient biometric authentication framework that significantly reduces the likelihood of account takeover fraud.
 - **Impact**: This research contributes to the field of mobile banking security by providing more robust authentication methods, protecting users' financial information from fraudulent activities.
 
+### 7. Utilizing Blockchain to Ensure the Integrity of Data in Mechanical Designs
+- **Objective**: Ensure the integrity and authenticity of data in mechanical designs using blockchain technology.
+- **Approach**: Designed a blockchain-based system to securely store and verify mechanical design data, preventing unauthorized modifications and ensuring data traceability.
+- **Results**: Implemented a prototype that demonstrated the effectiveness of blockchain in maintaining the integrity of mechanical design data throughout its lifecycle.
+- **Impact**: This research offers a novel solution for protecting intellectual property in mechanical engineering, ensuring the reliability and accuracy of design data.
+
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
 - 🛡️ As a mobile developer, I prioritize **security** in every stage of app development.
