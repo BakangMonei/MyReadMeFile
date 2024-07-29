@@ -18,42 +18,49 @@
 ## 📝 Published Researches
 
 ### 1. Improving Brain Tumor Detection Using Convolutional Neural Networks
+
 - **Objective**: Enhance the accuracy and efficiency of brain tumor detection using advanced convolutional neural networks (CNNs).
 - **Approach**: Developed a CNN-based model to analyze medical imaging data, specifically MRI scans, to identify and classify brain tumors.
 - **Results**: Achieved higher accuracy rates in detecting and categorizing various types of brain tumors, outperforming traditional detection methods.
 - **Impact**: This research contributes to the field of medical diagnostics by providing a reliable and automated tool for early detection of brain tumors, potentially improving patient outcomes through timely intervention.
 
 ### 2. Android Mobile Development
+
 - **Objective**: Explore the latest trends, tools, and techniques in Android mobile development.
 - **Approach**: Conducted an in-depth analysis of Android development frameworks, libraries, and best practices to create robust and user-friendly mobile applications.
 - **Results**: Published guidelines and case studies on effective Android development strategies, covering areas such as UI/UX design, performance optimization, and security practices.
 - **Impact**: This research aids developers in building high-quality Android applications, enhancing user experiences, and ensuring application security and performance.
 
 ### 3. Improving Cyber Security Posture for University Communities by Establishment of Cyber Clinic
+
 - **Objective**: Strengthen cybersecurity within university communities by establishing dedicated cyber clinics.
 - **Approach**: Designed a comprehensive cybersecurity program that includes regular security assessments, incident response training, and awareness campaigns for students and staff.
 - **Results**: Implemented cyber clinics that provided hands-on support, resources, and training to university members, significantly reducing security incidents and enhancing overall cybersecurity awareness.
 - **Impact**: This initiative improves the cybersecurity posture of universities by fostering a culture of security awareness and proactive risk management, protecting sensitive academic and personal data.
 
 ### 4. The Comprehensive Approach to Cybersecurity: Strategies for Individuals and Organizations
+
 - **Objective**: Provide a holistic approach to cybersecurity by outlining strategies for both individuals and organizations.
 - **Approach**: Analyzed various cybersecurity frameworks, threat landscapes, and defense mechanisms to develop a set of best practices and actionable strategies.
 - **Results**: Published a comprehensive guide that includes personal cybersecurity tips, organizational security policies, and incident response plans.
 - **Impact**: This research empowers individuals and organizations to enhance their cybersecurity defenses, mitigate risks, and respond effectively to cyber threats.
 
 ### 5. Critical Evaluation of Sentiment-Driven Risk Assessment Models in Security Architecture: Leveraging Sentiment Analysis Algorithms for Enhanced Cybersecurity
+
 - **Objective**: Evaluate the effectiveness of sentiment-driven risk assessment models in enhancing cybersecurity.
 - **Approach**: Developed and tested sentiment analysis algorithms to assess risks based on sentiment data from various sources, including social media and threat reports.
 - **Results**: Demonstrated that sentiment-driven models can provide valuable insights into potential security threats, complementing traditional risk assessment methods.
 - **Impact**: This research introduces an innovative approach to risk assessment, leveraging sentiment analysis to predict and mitigate cybersecurity threats more effectively.
 
 ### 6. Improving the Efficacy of Biometric Authentication in Detecting Account Takeover Fraud in Mobile Banking
+
 - **Objective**: Enhance the reliability of biometric authentication methods in preventing account takeover fraud in mobile banking.
 - **Approach**: Investigated the limitations of existing biometric systems and proposed improvements using advanced algorithms and multi-factor authentication techniques.
 - **Results**: Developed a more secure and efficient biometric authentication framework that significantly reduces the likelihood of account takeover fraud.
 - **Impact**: This research contributes to the field of mobile banking security by providing more robust authentication methods, protecting users' financial information from fraudulent activities.
 
 ### 7. Utilizing Blockchain to Ensure the Integrity of Data in Mechanical Designs
+
 - **Objective**: Ensure the integrity and authenticity of data in mechanical designs using blockchain technology.
 - **Approach**: Designed a blockchain-based system to securely store and verify mechanical design data, preventing unauthorized modifications and ensuring data traceability.
 - **Results**: Implemented a prototype that demonstrated the effectiveness of blockchain in maintaining the integrity of mechanical design data throughout its lifecycle.
