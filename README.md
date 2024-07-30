@@ -155,7 +155,7 @@
 
 ### Languages
 
-- **Mobile Development:** Kotlin, Java, Swift, JavaScript, TypeScript, Go
+- **Mobile Development:** Kotlin, Java, Swift, JavaScript, TypeScript, Go, Rust
 - **Network Security & Cybersecurity:** C, C++, C#, Python
 - **Legacy Systems & Security Analysis:** Fortran
 
