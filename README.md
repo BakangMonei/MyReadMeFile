@@ -162,7 +162,7 @@
 ### Databases
 
 - MySQL, SQLite, Firebase, MongoDB, PostgreSQL
-- Room, Turso (Custom database)
+- Room, Turso (Custom database), PocketBase, Prisma
 
 ### Frameworks
 
