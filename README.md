@@ -1,4 +1,4 @@
-# Monei Bakang Mothuti [NeizaTheeDev]
+# Monei Bakang Mothuti
 
 ## 🎓 Education
 
