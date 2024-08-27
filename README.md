@@ -167,7 +167,7 @@
 
 ### Cloud Services
 
-- AWS (Amazon Web Services), Azure, Google Cloud Services, IBM Cloud, Oracle Cloud
+- AWS (Amazon Web Services), Azure, Google Cloud Services, IBM Cloud, Oracle Cloud.
 
 ### Tools & Technologies
 
