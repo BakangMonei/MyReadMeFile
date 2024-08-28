@@ -163,7 +163,7 @@
 ### Frameworks
 
 - Mobile Development: React Native, Android (Java & Kotlin)
-- Web & Application Security: JavaFX, Spring Boot, Laravel, Cordova, React Native, Bootstrap 5, Tailwind CSS, Material Themes
+- Web & Application Security: JavaFX, Spring Boot, Laravel, Cordova, React Native, Bootstrap 5, Tailwind CSS, Material Themes.
 
 ### Cloud Services
 
@@ -207,7 +207,7 @@
   <li>Twitter: <a href="https://twitter.com/BakangMonei">BakangMonei</a></li>
   <li>Instagram: <a href="https://www.instagram.com/moneibakangmothuti/">@bakangmoneimothuti</a></li>
   <li>Facebook: <a href="https://www.facebook.com/bakangmonei.mothuti/">Monei Bakang Mothuti</a></li>
-  <li>Email: <a href="mailto:bakangmonei@swiftiq.co.bw">bakangmonei@swiftiq.co.bw</a></li>
+  <li>Email: <a href="mailto:bakangmonei2@gmail.com">bakangmonei@swiftiq.co.bw</a></li>
   <li>TikTok: <a href="https://www.tiktok.com/@moneibakangmothuti">@moneibakangmothuti</a></li>
 </ul>
 
