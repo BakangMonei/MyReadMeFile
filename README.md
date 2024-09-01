@@ -1,4 +1,4 @@
-# Proff. Monei Bakang Mothuti
+# Monei Bakang Mothuti
 
 ## 🎓 Education
 
