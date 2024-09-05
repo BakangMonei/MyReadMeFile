@@ -1,6 +1,6 @@
 # Monei Bakang Mothuti
 
-## 🎓 Education [Academia]
+## 🎓 Education
 
 - Masters Of Sciences in Computer Science(Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
 - Executive - Masters in Business Administration (MBA) student **@SheffieldHallamUniversity**
