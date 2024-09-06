@@ -3,7 +3,6 @@
 ## 🎓 Education
 
 - Masters Of Sciences in Computer Science(Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
-- Executive - Masters in Business Administration (MBA) student **@SheffieldHallamUniversity**
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
 
 ## 🚀 About Me Bakang Monei [Software Engineer (Solutions Architect & Mobile Developer)]
