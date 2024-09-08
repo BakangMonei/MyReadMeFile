@@ -3,7 +3,7 @@
 ## 🎓 Education [Academia]
 
 - Masters Of Sciences in Computer Science(Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
-- [Summa Cum Laude]Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
+- [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
 
 ## 🚀 About Me Bakang Monei [Software Engineer (Solutions Architect & Mobile Developer)]
 
