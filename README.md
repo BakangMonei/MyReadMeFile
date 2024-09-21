@@ -1,4 +1,4 @@
-# Monei Bakang Mothuti
+# Monei Bakang Mothuti [Academic Weapon]
 
 ## 🎓 Education [Academia]
 
