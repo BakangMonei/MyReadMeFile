@@ -1,6 +1,6 @@
 # Monei Bakang Mothuti
 
-## 🎓 Education [Academia]
+## 🎓 Education
 
 - Masters Of Sciences in Computer Science(Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
