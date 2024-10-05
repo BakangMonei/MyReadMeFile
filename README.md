@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 
-- Masters Of Sciences in Computer Science(Cybersecurity, Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
+- Masters Of Sciences in Computer Science(Mobile Security, Cybersecurity, Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
 
 
