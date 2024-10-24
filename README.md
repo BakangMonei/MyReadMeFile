@@ -1,9 +1,10 @@
-# Monei Bakang Mothuti [Academia]
+# @Monei Bakang Mothuti [Academia]
 
 ## 🎓 Education
 
 - Masters Of Sciences in Computer Science(Mobile Security, Cybersecurity, Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
+- Executive-Masters in Business Administration (MBA) **@SheffieldHallamUniversity**
 
 
 ## 🚀 About Me Bakang Monei [Software Engineer (Solutions Architect & Mobile Developer)]
