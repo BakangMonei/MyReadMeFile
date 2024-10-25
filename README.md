@@ -1,4 +1,4 @@
-# @Monei Bakang Mothuti [Academia]
+# Monei Bakang Mothuti [Academia || Corporate]
 
 ## 🎓 Education
 
