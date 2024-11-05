@@ -1,4 +1,4 @@
-# Monei Bakang Mothuti [ Academia || Corporate Engineer ]
+# Monei Bakang Mothuti [ Academia || Corporate Software Engineer ]
 
 ## 🎓 Education
 
