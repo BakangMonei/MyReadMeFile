@@ -84,6 +84,26 @@
 - **Results**: Demonstrated that while classic solutions prevent deadlock, newer adaptations improve resource utilization and adaptability.
 - **Impact**: Highlights future research directions in concurrency control, including dynamic resource management for distributed and cloud systems, making the Dining Philosophers Problem relevant for modern computing environments​
 
+### 11. Leveraging Open-Source Intelligence, Machine Learning, and Artificial Intelligence to Mitigate Problematic Gambling Behavior
+
+- **Objective**: Utilize OSINT, ML, and AI to predict, detect, and reduce problematic gambling behavior.
+- **Approach**: Developed predictive models using ML to identify potential problem gamblers and AI-driven interventions for real-time support.
+- **Results**: Created a model that effectively identifies at-risk individuals and designed interventions to provide support.
+- **Impact**: This research aids in mitigating gambling-related issues by providing tools for early intervention and support, contributing to public health​.
+
+### 12. An Investigation on the Impact of Leadership Practices on Employee Engagement and Overall Branch Performance at Stanbic Bank
+
+- **Objective**: Examine how leadership practices influence employee engagement and branch performance.
+- **Approach**: Conducted a quantitative study across Stanbic Bank branches, analyzing employee engagement and performance data.
+- **Results**: Found a positive correlation between effective leadership and higher engagement, enhancing branch performance.
+- **Impact**: Provides insights for improving leadership practices within banking, promoting a more motivated and productive workforce
+
+### 13. Enhancing Satellite Technology and Open-Source Intelligence Through Machine Learning and Artificial Intelligence
+
+- **Objective**: Advance satellite technology by integrating ML and AI to process hyperspectral data and improve OSINT applications.
+- **Approach**: Developed ML and AI models for satellite data preprocessing, feature extraction, and pattern recognition, enhancing OSINT.
+- **Results**: Improved data analysis capabilities in environmental and urban planning applications.
+- **Impact**: Enhances satellite technology’s utility in critical areas, promoting better decision-making through integrated, actionable intelligence
 
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
