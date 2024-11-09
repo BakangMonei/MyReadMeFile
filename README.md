@@ -63,6 +63,28 @@
 - **Results**: Implemented a prototype that demonstrated the effectiveness of blockchain in maintaining the integrity of mechanical design data throughout its lifecycle.
 - **Impact**: This research offers a novel solution for protecting intellectual property in mechanical engineering, ensuring the reliability and accuracy of design data.
 
+### 8. Comparative Analysis of Deadlock Prevention and Avoidance Strategies in Concurrent Programming Languages and Paradigms
+
+- **Objective**: Evaluate the effectiveness of deadlock prevention and avoidance strategies across concurrent programming languages.
+- **Approach**: Analyzed Erlang, Go, and Rust alongside traditional languages, assessing unique features like Go's channels, Rust's ownership model, and Erlang's actor-based concurrency.
+- **Results**: Showed modern languages provide robust deadlock solutions, with each model having distinct strengths in specific scenarios.
+- **Impact**: Offers a strategic guide for developers on selecting languages based on deadlock handling capabilities, thus optimizing concurrent application reliability.
+
+### 9. A Literature Survey of Real-Time Scheduling Algorithms
+
+- **Objective**: Summarize and evaluate real-time scheduling algorithms across various system types and requirements.
+- **Approach**: Conducted a comprehensive survey of classic and recent algorithms, including Rate Monotonic and Earliest Deadline First, with a focus on schedulability, energy efficiency, and adaptability.
+- **Results**: Identified gaps in current scheduling algorithms, particularly for energy efficiency and scalability in complex real-time systems.
+- **Impact**: Provides a foundation for future research into adaptive scheduling algorithms, addressing the growing complexity in real-time system demands.
+
+### 10. The Dining Philosophers Problem: A Historical and Contemporary Review with Future Research Directions
+
+- **Objective**: Reevaluate the Dining Philosophers Problem, exploring its applicability in modern computing systems.
+- **Approach**: Analyzed classic and modern solutions to the problem, examining semaphore-based methods, token-based approaches, and emerging machine learning applications.
+- **Results**: Demonstrated that while classic solutions prevent deadlock, newer adaptations improve resource utilization and adaptability.
+- **Impact**: Highlights future research directions in concurrency control, including dynamic resource management for distributed and cloud systems, making the Dining Philosophers Problem relevant for modern computing environments​
+
+
 ## 🔐 Cybersecurity in Mobile Development (Native)
 
 - 🛡️ As a mobile developer, I prioritize **security** in every stage of app development.
