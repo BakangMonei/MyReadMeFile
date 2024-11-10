@@ -318,5 +318,9 @@ Feel free to explore my repositories to discover some interesting projects I've 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BakangMonei&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# My GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=BakangMonei&theme=dark&hide_border=false)<br/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=BakangMonei&icon=6&color=12)](https://visitcount.itsvg.in)
