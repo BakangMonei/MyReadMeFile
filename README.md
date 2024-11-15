@@ -214,7 +214,7 @@
 
 ### Tools & Technologies
 
-- **Version Control:** Git, GitLab
+- **Version Control:** Git, GitLab, GitHub
 - **CI/CD:** Jenkins, Travis CI
 - **Network Administration & Cybersecurity:**
   - Wireshark, Nmap, Metasploit, Snort, Burp Suite,OpenVAS,OSSEC,Zeek (formerly Bro), tcpdump,Aircrack-ng, Nessus,Nikto, Hashcat,tcpdump, IDS/IPS Systems (Intrusion Detection/Prevention Systems), SIEM (Security Information and Event Management), Penetration Testing Tools (various), Threat Intelligence Platforms
