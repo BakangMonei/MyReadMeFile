@@ -5,6 +5,7 @@
 - Masters Of Science in Computer Science(Mobile Security, Cybersecurity, Open-Source Intelligence, Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering **@UniversityOfSunderland**
 - Executive-Masters in Business Administration (MBA) **@SheffieldHallamUniversity**
+- Road to Professorship
 
 ## 🚀 About Me Bakang Monei [Software Engineer (Solutions Architect & Mobile Developer)]
 
