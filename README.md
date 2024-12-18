@@ -9,7 +9,7 @@
 
 ## 🚀 About Me Bakang Monei [Software Engineer (Solutions Architect & Mobile Developer)]
 
-- Passionate computing geek who loves diving deep into coding(programming) and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
+- Passionate computing geek who loves diving deep into Software Engineering and creating impactful solutions. My journey in the world of tech has been an exciting ride filled with endless lines of code and a quest for innovation.
 
 - Masters Of Science in Computer Science (Artficial Intelligence & Machine Learning) Student | **[Cum Laude]** Bachelor of Sciences (Hons) Computer Systems Engineering | DevOps & CyberOps & SecOps | Android Developer | Machine Learning | Artificial Intelligence | AWS Certified Solutions Architect - Associate SAA-C03 | Google Developer | Server Administrator [Ubuntu & Microsoft] | Linux (Kali & Parrot OS) | Tech-Entrepreneur | Cybersecurity | Database Administrator | UI/UX Designer | Spring Boot (ThymeLeave) | React Native | Software Consultant | Open-Source Intelligence (OSInt) | Network Security | Project Management (PRINCE 2) | Agile & Scrum Master | Bitcoin Miner
 
