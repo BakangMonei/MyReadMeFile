@@ -1,6 +1,6 @@
 # Monei Bakang Mothuti [Academia || Corporate Software Engineer || Solutions Architect]
 
-## 🎓 Education
+## 🎓 Education 
 
 - Masters Of Science in Computer Science(Mobile Security, Cybersecurity, Research, Data Warehousing, Thessis, Operating Systems [Linux], Object-Oriented Software Engineering, Dissertation, Open-Source Intelligence, Artificial Intelligence & Machine Learning) Student **@UniversityOfBotswana**
 - [Summa Cum Laude] Bachelor of Sciences (Hons) Computer Systems Engineering
